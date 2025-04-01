@@ -19,6 +19,8 @@ import org.openqa.selenium.WebElement;
 
 public class StandAloneTest_FromLesson151 {
 
+//NEW COMMENTS ARE ADDED
+
 	static String productName = "ZARA COAT 3";
 
 	public static void main(String[] args) throws InterruptedException {
